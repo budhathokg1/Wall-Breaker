@@ -1,6 +1,20 @@
 .game {
-        width: 450px;
-        height: 450px;
-        border-style:solid;
+
+        height: 30vw;
+        width: 30vw;
+        border-style: solid grey;
         background-color: gold;
+}
+
+.center{
+  margin-top: 14vw;
+  margin-left: 14vw;
+}
+
+#slider{
+  height: 10px;
+  width: 60px;
+  background-color: green;
+  margin: 180px 200px 30px 200px;
+  display: none;
 }
